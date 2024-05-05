@@ -3,7 +3,7 @@
 
 #ifndef MCP6S21_h
 
-	#define MC6S21_h
+	#define MCP6S21_h //#define MC6S21_h  problem with redefinition -> Error writing marco name MC6S21_h -> MCP6S21_h
 	
 	#include "Arduino.h"          // include arduino Core
 
